@@ -1,0 +1,5 @@
+projectKey=com.mycompany:sample
+serverUrl=http://192.168.33.10:9000
+dashboardUrl=http://192.168.33.10:9000/dashboard/index/com.mycompany:sample
+ceTaskId=AVkfS0_ECUG5Uy220BfY
+ceTaskUrl=http://192.168.33.10:9000/api/ce/task?id=AVkfS0_ECUG5Uy220BfY
